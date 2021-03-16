@@ -1,5 +1,5 @@
 # vaccine-notifier
-Receive a notification when vaccines are available in your area
+Receive a notification when vaccines are available in your area.
 
 ## Setup
 #### Configuration
@@ -15,4 +15,4 @@ Simply run `python notifier.py` as a background job or within a `tmux` session.
 Update `sound` to include additional actions you might want to take when a vaccine is
 located within your search radius. Send an email, a native notification, or sound a buzzer!
 
-![Raspberry PI Vaccine Buzzer](https://github.com/gkumar7/model/blob/main/rpi-buzzer.jpg)
+![Raspberry PI Vaccine Buzzer](https://github.com/gkumar7/vaccine-notifier/blob/main/rpi-buzzer.jpg)
